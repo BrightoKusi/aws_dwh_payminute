@@ -2,19 +2,19 @@
 Building a cloud data warehouse with AWS for Payminute company
 
 - Introduction
-PayMinute is a Fintech Company with over 5000 active users located in Nigeria and Kenya. They currently have Data Analysts whose daily tasks is to deliver analysed data to the department heads and board members weekly.
+1. PayMinute is a Fintech Company with over 5000 active users located in Nigeria and Kenya. They currently have Data Analysts whose daily tasks is to deliver analysed data to the department heads and board members weekly.
 The analysts have since began to experience delayed data retrieval and need for multiple-checks on data accuracy as their daily transactions grew. After much complain, the business has decided to adopt the services of a Big Data Engineer
 
 
 - Tools and dependancies
-Python
-Pandas
-Psycopg2
-Boto3
-s3fs
-configparser
-reshift-connector
-sqlalchemy
+1. Python
+2. Pandas
+3. Psycopg2
+4. Boto3
+5. s3fs
+6. configparser
+7. redshift-connector
+8. sqlalchemy
 
 - Work Done
 1. Dataset loaded in postgresql.
