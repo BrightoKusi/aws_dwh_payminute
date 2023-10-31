@@ -16,7 +16,7 @@ The analysts have since began to experience delayed data retrieval and need for 
 7. redshift-connector
 8. sqlalchemy
 
-- Work Done
+# Work Done
 1. Dataset loaded in postgresql.
 2. Data warehouse designed based on data analysts requirements using a star schema design.
 3. Data lake(s3 bucket) created and data loaded.
